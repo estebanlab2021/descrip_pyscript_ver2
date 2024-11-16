@@ -14,9 +14,9 @@ Este es un ejercicio de aplicación del framework de Pyscript que permite incorp
     <li>Para análisis de variables categóricas (nominales u ordinales), debe seleccionar solo dos variables del listado de variables de su base la variable que corresponda a lo solicitado y hacer clic en el botón "Procesar".</li>
 </ol>
 
-<p>En el caso la <b>variable contínua</b>, se genera una tabla con las estadísticas descriptivas básicas como: media, mediana, desviación estándar, asimetría, curtosis, mínimo y máximo, Así como un histograma donde dinámicamente es posible ajustar los "bins", también genera un gráfico de boxplots y puede seleccionar una variable categórica para observar las agrupaciones y finalmente se presenta un gráfico de dispersión, donde se puede seleccionar las variables X o Y, si la base posee más de dos variables contínuas.</p>
+<p>En el caso de la <b>variable contínua</b>, se genera una tabla con las estadísticas descriptivas básicas como: media, mediana, desviación estándar, asimetría, curtosis, mínimo y máximo, Así como un histograma donde dinámicamente es posible ajustar los "bins", también genera un gráfico de boxplots y puede seleccionar una variable categórica para observar las agrupaciones y finalmente se presenta un gráfico de dispersión, donde se puede seleccionar las variables X o Y, si la base posee más de dos variables contínuas.</p>
 
-<p>En el caso las <b>variables categóricas</b>, se genenera un tabla de contingencia, así como un gráfico de barras simple para cada variable respectivamente y finalmente un gráfico de barras agrupadas para ambas variables.</p>
+<p>En el caso de las <b>variables categóricas</b>, se genenera un tabla de contingencia, así como un gráfico de barras simple para cada variable respectivamente y finalmente un gráfico de barras agrupadas para ambas variables.</p>
 
 
 <p>Para acceder a la página, usar el siguiente link: https://estebanlab2021.github.io/descrip_pyscript_ver2/</p>
